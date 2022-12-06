@@ -10,8 +10,7 @@ const App = () => {
       <Navbar />
       <Routes>
         <Route
-          exact
-          path="/"
+          path="*"
           element={<Index />}
         />
         <Route

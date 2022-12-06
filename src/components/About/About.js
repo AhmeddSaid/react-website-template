@@ -4,7 +4,7 @@ import { AboutSection, Info, Title, TitleSpan, InfoTitle, InfoDesc, Anchor } fro
 
 const About = () => {
   return (
-    <AboutSection>
+    <AboutSection id="about">
       <div className="container">
         <Info>
           <Title>
