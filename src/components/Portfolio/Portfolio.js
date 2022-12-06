@@ -14,7 +14,7 @@ const Portfolio = () => {
       <Box key={image.id}>
         <Image
           src={image.image}
-          alt="image"
+          alt=""
         />
         <Overlay>
           <OverlaySpan>Show Image</OverlaySpan>

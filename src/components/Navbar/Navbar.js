@@ -14,16 +14,16 @@ const Navbar = () => {
             <LinkAnchor to="/">Home</LinkAnchor>
           </ListItem>
           <ListItem>
-            <Anchor href="#">Work</Anchor>
+            <Anchor href="/">Work</Anchor>
           </ListItem>
           <ListItem>
-            <Anchor href="#">Portfolio</Anchor>
+            <Anchor href="/">Portfolio</Anchor>
           </ListItem>
           <ListItem>
-            <Anchor href="#">Profile</Anchor>
+            <Anchor href="/">Profile</Anchor>
           </ListItem>
           <ListItem>
-            <Anchor href="#">About</Anchor>
+            <Anchor href="/">About</Anchor>
           </ListItem>
           <ListItem>
             <LinkAnchor to="/contact">Contact</LinkAnchor>
