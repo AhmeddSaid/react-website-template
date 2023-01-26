@@ -11,22 +11,22 @@ const Navbar = () => {
         </Logo>
         <List>
           <ListItem>
-            <LinkAnchor to="/">Home</LinkAnchor>
+            <LinkAnchor to="https://ahmeddsaid.github.io/react-website-template/">Home</LinkAnchor>
           </ListItem>
           <ListItem>
-            <Anchor href="/">Work</Anchor>
+            <Anchor href="https://ahmeddsaid.github.io/react-website-template/#work">Work</Anchor>
           </ListItem>
           <ListItem>
-            <Anchor href="/">Portfolio</Anchor>
+            <Anchor href="https://ahmeddsaid.github.io/react-website-template/#portfolio">Portfolio</Anchor>
           </ListItem>
           <ListItem>
-            <Anchor href="/">Profile</Anchor>
+            <Anchor href="https://ahmeddsaid.github.io/react-website-template/#profile">Profile</Anchor>
           </ListItem>
           <ListItem>
-            <Anchor href="/">About</Anchor>
+            <Anchor href="https://ahmeddsaid.github.io/react-website-template/#about">About</Anchor>
           </ListItem>
           <ListItem>
-            <LinkAnchor to="/contact">Contact</LinkAnchor>
+            <LinkAnchor to="https://ahmeddsaid.github.io/react-website-template/contact">Contact</LinkAnchor>
           </ListItem>
         </List>
       </div>

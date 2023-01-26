@@ -10,11 +10,11 @@ const App = () => {
       <Navbar />
       <Routes>
         <Route
-          path="/"
+          path="https://ahmeddsaid.github.io/react-website-template/"
           element={<Index />}
         />
         <Route
-          path="/contact"
+          path="https://ahmeddsaid.github.io/react-website-template/contact"
           element={<Contact />}
         />
       </Routes>
